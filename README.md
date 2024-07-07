@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart, NLP**
 
-- 👨‍💻 All of my projects are available at [Definitely Github!](Definitely Github!)
+- 👨‍💻 All of my projects are available at [Definitely Github!]
 
 - 📫 How to reach me **abidulhaqahnaf@gmail.com**
 
