@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 <h3 align="center">A passionate robotics and machine learning enthusiast from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnaf-nub" alt="ahnaf-nub" /></a> </p>
-
 - 🌱 I’m currently learning **Dart, NLP**
 
 - 👨‍💻 All of my projects are available at [Definitely Github!]
