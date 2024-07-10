@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 <h3 align="center">A passionate robotics and machine learning enthusiast from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Dart, NLP**
+- 🌱 I’m currently learning **Dart for FLutter, NLP and little bit of web development!**
 
 - 👨‍💻 All of my projects are available at [Definitely Github!]
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mir muhammad abidul haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mir muhammad abidul haq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mirmdabidulhaq.ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mir muhammad abidul haq" height="30" width="40" /></a>
 <a href="https://instagram.com/ahnaf.4o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahnaf.4o4" height="30" width="40" /></a>
 </p>
 
