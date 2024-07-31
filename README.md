@@ -1,4 +1,4 @@
-align = "center" ![Header](./assets/ahnaf.png)
+   ![Header](./assets/ahnaf.png)
 <h3 align="center">A passionate robotics and machine learning enthusiast from Bangladesh</h3>
 
 - 🌱 I’m currently learning ** about llms, nlp and little bit of web development!**
