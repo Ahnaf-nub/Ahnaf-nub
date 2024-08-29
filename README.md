@@ -1,5 +1,5 @@
 <p align = "center">
-<img width= "800" height="400" src= "./assets/ahnaf.png" alt = "my banner">
+<img width= "1000" height="200" src= "./assets/ahnaf.png" alt = "my banner">
 </p>
 <h3 align="center">A passionate robotics and machine learning enthusiast from Bangladesh. Prefer to learn through hands on projects and real life based problem solving approach!</h3>
 
