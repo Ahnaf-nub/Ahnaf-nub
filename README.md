@@ -1,4 +1,6 @@
-![Header](./assets/ahnaf.png)
+<p align = "center">
+<img width="200" height="200" src= "./assets/ahnaf.png" alt = "my banner">
+</p>
 <h3 align="center">A passionate robotics and machine learning enthusiast from Bangladesh. Prefer to learn through hands on projects and real life based problem solving approach!</h3>
 
 - 🌱 I’m currently learning **about llms and little bit of web development!**
