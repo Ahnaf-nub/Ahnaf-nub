@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=1024&lines=Talk+is+cheap%2C+show+me+the+code.;A+commit+a+day+keeps+the+void+at+bay.&center=true&size=27&color=36bcf7)](https://git.io/typing-svg)
 # 💫 About Me:
-🌱 I’m currently learning about embedded machine learning (TinyML) and little bit of web development!<br><br>👨‍💻 All of my projects are available at: definitely Github!<br><br>📫 How to reach me https://ahnaf-nub.github.io (Work in progress)<br><br>⚡ Fun fact Life's greatn't :V
+🌱 I’m currently learning about embedded machine learning (TinyML) and little bit about ROS!<br><br>👨‍💻 All of my projects are available at: definitely Github!<br><br>📫 How to reach me https://ahnaf-nub.github.io (Work in progress)<br><br>⚡ Fun fact Life's greatn't :V
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mein__kampf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirmdabidulhaq.ahnaf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahnaf.4o4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mir-muhammad-abidul-haq-ahnaf-9871a9273/) 
