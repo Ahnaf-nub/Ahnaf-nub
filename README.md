@@ -14,6 +14,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ahnaf-nub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Ahnaf-nub&icon=6&color=13" align="center" />
-</div>
